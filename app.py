@@ -38,6 +38,8 @@ def load_pipeline():
     pipe = StableDiffusionPipeline.from_pretrained(
         str(MODEL_DIR),
         torch_dtype=dtype,
+        safety_checker=None,
+        requires_safety_checker=False,
         local_files_only=True
     )
 
