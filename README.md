@@ -1,5 +1,4 @@
 # Bildgenerierung_Diffuser
-# README – Dokumentation der erhobenen Daten und generierten Bilder
 
 ## Projektbeschreibung
 
