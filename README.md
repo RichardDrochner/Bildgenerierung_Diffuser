@@ -99,7 +99,7 @@ Experimentelle Datenerhebung zur Leistungsbewertung von GPU-gestützten Leihlapt
 
 ## Ablageort und Struktur
 
-**Ordnerstruktur (Beispiel):**
+**Ordnerstruktur:**
 
 ```
 /
